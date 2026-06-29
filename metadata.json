@@ -1,0 +1,8 @@
+{
+  "name": "Ejemplo_MedicalPoster",
+  "description": "Transform clinical abstracts into professional, high-impact scientific posters for medical congresses using AI-driven visual layout and data synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
